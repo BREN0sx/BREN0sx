@@ -1,4 +1,4 @@
-<p align="center">
-[<img src="./Profile01.png"](https://github.com/BREN0sx)
+[<img src="./Profile01.png">](https://github.com/BREN0sx)
 <br><br>
-<a href="http://status.flyhighbot.com">SERVICES STATUS</p>
+<p align="center">
+<a href="http://status.flyhighbot.com" align="center">SERVICES STATUS
